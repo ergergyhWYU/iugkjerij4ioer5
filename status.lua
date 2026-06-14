@@ -1,1 +1,4 @@
-
+return {
+    Version = "v2.6",
+    Message = "UNIVERSAL SUN HUB GG2 UPDATED PLS REEXCUTTE TO USE NEW FEATURES"
+}
