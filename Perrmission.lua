@@ -10,6 +10,6 @@ return {
     -- List of usernames allowed to bypass maintenance and run the scripts
     SafePlayers = {
         "",
-        -- Add other tester usernames here (separated by commas)
+        -- testers only
     }
 }
