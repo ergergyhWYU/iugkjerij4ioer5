@@ -1,6 +1,6 @@
 return {
     -- Latest version numbers of the game scripts
-    ["Grow A Garden 2"] = "v2.6",
+    ["Grow A Garden 2"] = "v2.7",
     ["Blox Fruits"]      = "v1.0",
     ["Mini War"]        = "v1.0",
     ["Ultra Unfair"]    = "v3.9",
