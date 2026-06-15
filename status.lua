@@ -8,3 +8,4 @@ return {
     -- Fallback message if a mismatch occurs
     Message = "UNIVERSAL SUN HUB UPDATED PLS REEXCUTTE TO USE NEW FEATURES"
 }
+print("ok")
